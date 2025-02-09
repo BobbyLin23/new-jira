@@ -5,7 +5,6 @@
 - TypeScript
 - Tailwind CSS
 - Shadcn UI with Svelte
-  
 
 ## Steps
 - [ ] Project Setup
