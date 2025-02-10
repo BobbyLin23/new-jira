@@ -7,8 +7,8 @@
 - Shadcn UI with Svelte
 
 ## Steps
-- [ ] Project Setup
-- [ ] Auth Screen
+- [x] Project Setup
+- [x] Auth Screen
 - [ ] Auth API
 - [ ] DB Setup
 - [ ] Route Protection
